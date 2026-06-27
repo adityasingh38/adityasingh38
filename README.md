@@ -8,9 +8,11 @@ Founder's Office operator who ships product. I work across **revenue, GTM, and a
 ### Things I've built
 | Project | What it is | Stack |
 |---|---|---|
-| **[Surge](https://github.com/adityasingh38/concertpay-app)** | Offline-first UPI payments for live events — tap-to-pay with no signal, settle on reconnect ([app](https://github.com/adityasingh38/concertpay-app) + [server](https://github.com/adityasingh38/concertpay-server)) | Expo / RN · Node · MongoDB · Razorpay |
-| **[Tally](https://github.com/adityasingh38/tally)** | Turns your bank SMS into automatic, AI-categorized expense tracking | React Native · Supabase |
+| **Surge** | Offline-first payments for live events — tap-to-pay with no signal, settled through a payment aggregator on reconnect | Expo / RN · Node · MongoDB |
+| **Tally** | Turns your bank SMS into automatic, AI-categorized expense tracking | React Native · Supabase |
 | **[Blocks](https://github.com/adityasingh38/blocks-app)** | Copy-paste UI component library + font generator | Next.js · TypeScript |
+
+*Surge and Tally are in active private development — happy to walk through the code or give a demo on request.*
 
 ### Toolbox
 **GTM & ops** — outbound, revenue operations, n8n automation, Apollo / Lusha / Zoho CRM
